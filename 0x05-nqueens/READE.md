@@ -1,7 +1,7 @@
 # 0x05. N Queens
 
 ![](https://media.geeksforgeeks.org/wp-content/uploads/ratinmaze_filled11-1-e1518086835222.png)
-
+![](https://upload.wikimedia.org/wikipedia/commons/8/8c/Sudoku_solved_by_bactracking.gif)
 ## Tasks
 
 ### 0. N queens
